@@ -1,143 +1,103 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ESPN HD" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="ESPN",ESPN HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/1028463.ts
 #EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="https://go4.pw/BRAZIL/ES.png" group-title="ESPN",ESPN 2 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/76317.ts
 #EXTINF:-1 tvg-name="ESPN BRASIL HD" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="ESPN",ESPN BRASIL HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/76318.ts
 #EXTINF:-1 tvg-name="ESPN EXTRA HD" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="ESPN",ESPN EXTRA HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/76316.ts
 #EXTINF:-1 tvg-name="SPORTV HD" tvg-logo="https://go4.pw/BRAZIL/SP.png" group-title="SPORTV",SPORTV HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/76310.ts
 #EXTINF:-1 tvg-name="SPORTV 2 HD" tvg-logo="https://go4.pw/BRAZIL/SP2.png" group-title="SPORTV",SPORTV 2 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/76311.ts
 #EXTINF:-1 tvg-name="SPORTV 3 HD" tvg-logo="https://go4.pw/BRAZIL/SP3.png" group-title="SPORTV",SPORTV 3 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/76312.ts
 #EXTINF:-1 tvg-name="PREMIERE 2 HD" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="PREMIERE",PREMIERE 2 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/76267.ts
 #EXTINF:-1 tvg-name="PREMIERE 3 HD" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="PREMIERE",PREMIERE 3 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/76268.ts
 #EXTINF:-1 tvg-name="PREMIERE 4 HD" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="PREMIERE",PREMIERE 4 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/76269.ts
 #EXTINF:-1 tvg-name="PREMIERE 5 HD" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="PREMIERE",PREMIERE 5 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/76270.ts
 #EXTINF:-1 tvg-name="PREMIERE 6 HD" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="PREMIERE",PREMIERE 6 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/76271.ts
 #EXTINF:-1 tvg-name="PREMIERE 7 HD" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="PREMIERE",PREMIERE 7 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/76272.ts
 #EXTINF:-1 tvg-name="PREMIERE 8 HEVC" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="PREMIERE",PREMIERE 8 HEVC
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/1028478.ts
 #EXTINF:-1 tvg-name="PREMIERE CLUBES HD" tvg-logo="https://go4.pw/BRAZIL/PR.png" group-title="PREMIERE",PREMIERE CLUBES HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/76266.ts
 #EXTINF:-1 tvg-name="BAND SPORTS HD" tvg-logo="https://go4.pw/BRAZIL/band.png" group-title="ESPORTES",BAND SPORTS HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/76287.ts
 #EXTINF:-1 tvg-name="COMBATE HD" tvg-logo="https://go4.pw/BRAZIL/CO.png" group-title="ESPORTES",COMBATE HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/76319.ts
 #EXTINF:-1 tvg-name="FISH TV FHD" tvg-logo="https://go4.pw/BRAZIL/FISH.png" group-title="ESPORTES",FISH TV FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/1028468.ts
 #EXTINF:-1 tvg-name="FOX SPORTS HD" tvg-logo="https://go4.pw/AMERICA/USA/FOXSPORT.png" group-title="ESPORTES",FOX SPORTS HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/76313.ts
 #EXTINF:-1 tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://go4.pw/AMERICA/USA/FOXSPORT.png" group-title="ESPORTES",FOX SPORTS 2 FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=100
-#EXTVLCOPT:live-caching=100
-#EXTVLCOPT:clock-jitter=0
-#EXTVLCOPT:clock-synchro=0
+#EXTVLCOPT:network-caching=300
+#EXTVLCOPT:live-caching=300
 http://des-tro.com:80/live/676803090641756/48gWA6n4pV/1028470.ts
 #EXTINF:-1 tvg-name="HBO FHD" tvg-logo="https://go4.pw/PORTUGAL/hbo_HD.png" group-title="HBO",HBO FHD
 #EXTVLCOPT:http-reconnect=true

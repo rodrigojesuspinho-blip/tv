@@ -1,936 +1,895 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ntctv-f1" tvg-name="F1 Live - F1 Live – Transmissão" tvg-logo="https://mtdpfbfzgphbxrsdhtar.supabase.co/storage/v1/object/public/blog-images/blog/f1-formula-1-logo-review-critique.jpg" group-title="Esportes",F1 Live - F1 Live – Transmissão
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-f1.m3u8?s=118
 #EXTINF:-1 tvg-id="ntctv-br-a-e-uhd" tvg-name="BR: A&E UHD - BR: A&E UHD – Ao Vivo" tvg-logo="http://32q0d.xyz/images/logos/A&E-Network-Logo.png" group-title="️ 4K",BR: A&E UHD - BR: A&E UHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-a-e-uhd.m3u8?s=3559
 #EXTINF:-1 tvg-id="ntctv-br-animal-planet-4k" tvg-name="BR: Animal Planet 4K - BR: Animal Planet 4K – Ao Vivo" tvg-logo="http://32q0d.xyz/images/206f85bae8d3e6fa73aff13b76280347.png" group-title="️ 4K",BR: Animal Planet 4K - BR: Animal Planet 4K – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-animal-planet-4k.m3u8?s=3560
 #EXTINF:-1 tvg-id="ntctv-br-axn-4k" tvg-name="BR: AXN 4K - BR: AXN 4K – Ao Vivo" tvg-logo="http://32q0d.xyz/images/logos/122b692dafbc0c6c96e99120afa1d0c8.png" group-title="️ 4K",BR: AXN 4K - BR: AXN 4K – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-axn-4k.m3u8?s=3561
 #EXTINF:-1 tvg-id="ntctv-br-band-sports-uhd" tvg-name="BR: Band Sports UHD - BR: Band Sports UHD – Ao Vivo" tvg-logo="http://32q0d.xyz/images/logos/89c82ac7b48190d42c202057b99b354b.png" group-title="️ 4K",BR: Band Sports UHD - BR: Band Sports UHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-band-sports-uhd.m3u8?s=3564
 #EXTINF:-1 tvg-id="ntctv-br-cnn-brasil-4k" tvg-name="BR: CNN Brasil 4K - BR: CNN Brasil 4K – Ao Vivo" tvg-logo="http://32q0d.xyz/images/logos/cnn-brasil-logo.png" group-title="️ 4K",BR: CNN Brasil 4K - BR: CNN Brasil 4K – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-cnn-brasil-4k.m3u8?s=3566
 #EXTINF:-1 tvg-id="ntctv-br-combate-4k" tvg-name="BR: Combate 4K - BR: Combate 4K – Ao Vivo" tvg-logo="http://32q0d.xyz/images/a049bdd0454374a202d60433b3a15bd1.png" group-title="️ 4K",BR: Combate 4K - BR: Combate 4K – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-combate-4k.m3u8?s=3567
 #EXTINF:-1 tvg-id="ntctv-br-discovery-channel-4k" tvg-name="BR: Discovery Channel 4K - BR: Discovery Channel 4K – Ao Vivo" tvg-logo="http://32q0d.xyz/images/2f301fd33e0f85e00c6169614a255614.png" group-title="️ 4K",BR: Discovery Channel 4K - BR: Discovery Channel 4K – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-discovery-channel-4k.m3u8?s=3568
 #EXTINF:-1 tvg-id="ntctv-br-discovery-h-h-4k" tvg-name="BR: Discovery H&H 4K - BR: Discovery H&H 4K – Ao Vivo" tvg-logo="http://32q0d.xyz/images/logos/discovery-home-and-health-logo2.png" group-title="️ 4K",BR: Discovery H&H 4K - BR: Discovery H&H 4K – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-discovery-h-h-4k.m3u8?s=3569
 #EXTINF:-1 tvg-id="ntctv-br-globo-news-4k" tvg-name="BR: Globo News 4K - BR: Globo News 4K – Ao Vivo" tvg-logo="http://32q0d.xyz/images/logos/62916a2736a2876d97ef570ef05d7dff.png" group-title="️ 4K",BR: Globo News 4K - BR: Globo News 4K – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-globo-news-4k.m3u8?s=3573
 #EXTINF:-1 tvg-id="ntctv-br-gnt-4k" tvg-name="BR: GNT 4K - BR: GNT 4K – Ao Vivo" tvg-logo="http://32q0d.xyz/images/logos/b6e571d9ed578891c3f0f9af3241a492.png" group-title="️ 4K",BR: GNT 4K - BR: GNT 4K – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-gnt-4k.m3u8?s=3578
 #EXTINF:-1 tvg-id="ntctv-br-hbo-4k" tvg-name="BR: HBO 4K - BR: HBO 4K – Ao Vivo" tvg-logo="http://32q0d.xyz/images/02533372af53048a55cf973c53c4ce87.png" group-title="️ 4K",BR: HBO 4K - BR: HBO 4K – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-hbo-4k.m3u8?s=3579
 #EXTINF:-1 tvg-id="ntctv-br-jovem-pan-news-4k" tvg-name="BR: Jovem Pan News 4K - BR: Jovem Pan News 4K – Ao Vivo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Jovem_Pan_logo.svg/500px-Jovem_Pan_logo.svg.png" group-title="️ 4K",BR: Jovem Pan News 4K - BR: Jovem Pan News 4K – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-jovem-pan-news-4k.m3u8?s=3580
 #EXTINF:-1 tvg-id="ntctv-br-megapix-4k" tvg-name="BR: Megapix 4K - BR: Megapix 4K – Ao Vivo" tvg-logo="http://32q0d.xyz/images/0509ec062c5005fe0c9a1671d245ba89.png" group-title="️ 4K",BR: Megapix 4K - BR: Megapix 4K – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-megapix-4k.m3u8?s=3581
 #EXTINF:-1 tvg-id="ntctv-br-multishow-4k" tvg-name="BR: Multishow 4K - BR: Multishow 4K – Ao Vivo" tvg-logo="http://32q0d.xyz/images/e0f541a353b0c195c043a2ecbdc70a07.png" group-title="️ 4K",BR: Multishow 4K - BR: Multishow 4K – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-multishow-4k.m3u8?s=3582
 #EXTINF:-1 tvg-id="ntctv-br-premiere-2-uhd" tvg-name="BR: Premiere 2 UHD - BR: Premiere 2 UHD – Ao Vivo" tvg-logo="http://32q0d.xyz/images/logos/4f02df7b2aedca9a4a55c65178d3b013.png" group-title="️ 4K",BR: Premiere 2 UHD - BR: Premiere 2 UHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-premiere-2-uhd.m3u8?s=3583
 #EXTINF:-1 tvg-id="ntctv-br-premiere-clubes-4k" tvg-name="BR: Premiere Clubes 4K - BR: Premiere Clubes 4K – Ao Vivo" tvg-logo="http://32q0d.xyz/images/50cef7bb91831a2e3a74bc07cc3de39f.png" group-title="️ 4K",BR: Premiere Clubes 4K - BR: Premiere Clubes 4K – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-premiere-clubes-4k.m3u8?s=3584
 #EXTINF:-1 tvg-id="ntctv-br-sportv-2-uhd" tvg-name="BR: SporTV 2 UHD - BR: SporTV 2 UHD – Ao Vivo" tvg-logo="http://32q0d.xyz/images/logos/ea8bda22c717274f821137eab09c07b6.png" group-title="️ 4K",BR: SporTV 2 UHD - BR: SporTV 2 UHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-sportv-2-uhd.m3u8?s=3587
 #EXTINF:-1 tvg-id="ntctv-br-sportv-uhd" tvg-name="BR: SporTV UHD - BR: SporTV UHD – Ao Vivo" tvg-logo="http://32q0d.xyz/images/logos/b18caf8c54b3426bf127aaadd211c620.png" group-title="️ 4K",BR: SporTV UHD - BR: SporTV UHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-sportv-uhd.m3u8?s=3588
 #EXTINF:-1 tvg-id="ntctv-br-tc-action-4k" tvg-name="BR: TC Action 4K - BR: TC Action 4K – Ao Vivo" tvg-logo="http://32q0d.xyz/images/logos/ec358a2b061fa5b893cea543df8adc1a.png" group-title="️ 4K",BR: TC Action 4K - BR: TC Action 4K – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-tc-action-4k.m3u8?s=3589
 #EXTINF:-1 tvg-id="ntctv-br-tc-pipoca-4k" tvg-name="BR: TC Pipoca 4K - BR: TC Pipoca 4K – Ao Vivo" tvg-logo="http://32q0d.xyz/images/logos/3516bb396867e2cbe412d92f3a016496.png" group-title="️ 4K",BR: TC Pipoca 4K - BR: TC Pipoca 4K – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-tc-pipoca-4k.m3u8?s=3590
 #EXTINF:-1 tvg-id="ntctv-tc-premium-4k" tvg-name="TC Premium 4K - TC Premium 4K – Ao Vivo" tvg-logo="http://32q0d.xyz/images/876e229e5252d62ec26916d99fe14da6.png" group-title="️ 4K",TC Premium 4K - TC Premium 4K – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-tc-premium-4k.m3u8?s=3591
 #EXTINF:-1 tvg-id="ntctv-br-tnt-4k" tvg-name="BR: TNT 4K - BR: TNT 4K – Ao Vivo" tvg-logo="http://32q0d.xyz/images/be5bfe94570a31b3728b4c2dff9425fa.png" group-title="️ 4K",BR: TNT 4K - BR: TNT 4K – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-tnt-4k.m3u8?s=3592
 #EXTINF:-1 tvg-id="ntctv-br-universal-4k" tvg-name="BR: Universal 4K - BR: Universal 4K – Ao Vivo" tvg-logo="http://32q0d.xyz/images/logos/Universal_Channel_Brasil.png" group-title="️ 4K",BR: Universal 4K - BR: Universal 4K – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-br-universal-4k.m3u8?s=3593
 #EXTINF:-1 tvg-id="ntctv-telecine-action-fhd" tvg-name="Telecine Action FHD - Telecine Action FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/tcaction.png" group-title="️  TELECINE",Telecine Action FHD - Telecine Action FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-telecine-action-fhd.m3u8?s=3638
 #EXTINF:-1 tvg-id="ntctv-telecine-action-hd" tvg-name="Telecine Action HD - Telecine Action HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/tcaction.png" group-title="️  TELECINE",Telecine Action HD - Telecine Action HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-telecine-action-hd.m3u8?s=3639
 #EXTINF:-1 tvg-id="ntctv-telecine-cult-fhd" tvg-name="Telecine Cult FHD - Telecine Cult FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/tccult.png" group-title="️  TELECINE",Telecine Cult FHD - Telecine Cult FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-telecine-cult-fhd.m3u8?s=3641
 #EXTINF:-1 tvg-id="ntctv-telecine-cult-hd" tvg-name="Telecine Cult HD - Telecine Cult HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/tccult.png" group-title="️  TELECINE",Telecine Cult HD - Telecine Cult HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-telecine-cult-hd.m3u8?s=3642
 #EXTINF:-1 tvg-id="ntctv-telecine-fun-fhd" tvg-name="Telecine Fun FHD - Telecine Fun FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/tcfun.png" group-title="️  TELECINE",Telecine Fun FHD - Telecine Fun FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-telecine-fun-fhd.m3u8?s=3644
 #EXTINF:-1 tvg-id="ntctv-telecine-fun-hd" tvg-name="Telecine Fun HD - Telecine Fun HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/tcfun.png" group-title="️  TELECINE",Telecine Fun HD - Telecine Fun HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-telecine-fun-hd.m3u8?s=3645
 #EXTINF:-1 tvg-id="ntctv-telecine-pipoca-fhd" tvg-name="Telecine Pipoca FHD - Telecine Pipoca FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/tcpipoca.png" group-title="️  TELECINE",Telecine Pipoca FHD - Telecine Pipoca FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-telecine-pipoca-fhd.m3u8?s=3647
 #EXTINF:-1 tvg-id="ntctv-telecine-pipoca-hd" tvg-name="Telecine Pipoca HD - Telecine Pipoca HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/tcpipoca.png" group-title="️  TELECINE",Telecine Pipoca HD - Telecine Pipoca HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-telecine-pipoca-hd.m3u8?s=3648
 #EXTINF:-1 tvg-id="ntctv-telecine-premium-fhd" tvg-name="Telecine Premium FHD - Telecine Premium FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/tcpremium.png" group-title="️  TELECINE",Telecine Premium FHD - Telecine Premium FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-telecine-premium-fhd.m3u8?s=3650
 #EXTINF:-1 tvg-id="ntctv-telecine-premium-hd" tvg-name="Telecine Premium HD - Telecine Premium HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/tcpremium.png" group-title="️  TELECINE",Telecine Premium HD - Telecine Premium HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-telecine-premium-hd.m3u8?s=3651
 #EXTINF:-1 tvg-id="ntctv-telecine-touch-fhd" tvg-name="Telecine Touch FHD - Telecine Touch FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/tctouch.png" group-title="️  TELECINE",Telecine Touch FHD - Telecine Touch FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-telecine-touch-fhd.m3u8?s=3653
 #EXTINF:-1 tvg-id="ntctv-telecine-touch-hd" tvg-name="Telecine Touch HD - Telecine Touch HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/tctouch.png" group-title="️  TELECINE",Telecine Touch HD - Telecine Touch HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-telecine-touch-hd.m3u8?s=3654
 #EXTINF:-1 tvg-id="ntctv-band-sports-fhd" tvg-name="Band Sports FHD - Band Sports FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/bandsports.png" group-title="️ ESPORTES ⚽",Band Sports FHD - Band Sports FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-band-sports-fhd.m3u8?s=3656
 #EXTINF:-1 tvg-id="ntctv-band-sports-hd" tvg-name="Band Sports HD - Band Sports HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/bandsports.png" group-title="️ ESPORTES ⚽",Band Sports HD - Band Sports HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-band-sports-hd.m3u8?s=3657
 #EXTINF:-1 tvg-id="ntctv-espn-2-fhd" tvg-name="ESPN 2 FHD - ESPN 2 FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/espn2.png" group-title="️ ESPN ⚽",ESPN 2 FHD - ESPN 2 FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-espn-2-fhd.m3u8?s=3659
 #EXTINF:-1 tvg-id="ntctv-espn-2-hd" tvg-name="ESPN 2 HD - ESPN 2 HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/espn2.png" group-title="️ ESPN ⚽",ESPN 2 HD - ESPN 2 HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-espn-2-hd.m3u8?s=3660
 #EXTINF:-1 tvg-id="ntctv-espn-3-fhd" tvg-name="ESPN 3 FHD - ESPN 3 FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/espn3.png" group-title="️ ESPN ⚽",ESPN 3 FHD - ESPN 3 FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-espn-3-fhd.m3u8?s=3662
 #EXTINF:-1 tvg-id="ntctv-espn-3-hd" tvg-name="ESPN 3 HD - ESPN 3 HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/espn3.png" group-title="️ ESPN ⚽",ESPN 3 HD - ESPN 3 HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-espn-3-hd.m3u8?s=3663
 #EXTINF:-1 tvg-id="ntctv-espn-4-fhd" tvg-name="ESPN 4 FHD - ESPN 4 FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/espn4.png" group-title="️ ESPN ⚽",ESPN 4 FHD - ESPN 4 FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-espn-4-fhd.m3u8?s=3665
 #EXTINF:-1 tvg-id="ntctv-espn-4-hd" tvg-name="ESPN 4 HD - ESPN 4 HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/espn4.png" group-title="️ ESPN ⚽",ESPN 4 HD - ESPN 4 HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-espn-4-hd.m3u8?s=3666
 #EXTINF:-1 tvg-id="ntctv-espn-5-fhd" tvg-name="ESPN 5 FHD - ESPN 5 FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/espn5.png" group-title="️ ESPN ⚽",ESPN 5 FHD - ESPN 5 FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-espn-5-fhd.m3u8?s=3668
 #EXTINF:-1 tvg-id="ntctv-espn-5-hd" tvg-name="ESPN 5 HD - ESPN 5 HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/espn5.png" group-title="️ ESPN ⚽",ESPN 5 HD - ESPN 5 HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-espn-5-hd.m3u8?s=3669
 #EXTINF:-1 tvg-id="ntctv-espn-6-fhd" tvg-name="ESPN 6 FHD - ESPN 6 FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/espn6.png" group-title="️ ESPN ⚽",ESPN 6 FHD - ESPN 6 FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-espn-6-fhd.m3u8?s=3671
 #EXTINF:-1 tvg-id="ntctv-espn-6-hd" tvg-name="ESPN 6 HD - ESPN 6 HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/espn6.png" group-title="️ ESPN ⚽",ESPN 6 HD - ESPN 6 HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-espn-6-hd.m3u8?s=3672
 #EXTINF:-1 tvg-id="ntctv-espn-fhd" tvg-name="ESPN FHD - ESPN FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/espn.png" group-title="️ ESPN ⚽",ESPN FHD - ESPN FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-espn-fhd.m3u8?s=3674
 #EXTINF:-1 tvg-id="ntctv-espn-hd" tvg-name="ESPN HD - ESPN HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/espn.png" group-title="️ ESPN ⚽",ESPN HD - ESPN HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-espn-hd.m3u8?s=3675
 #EXTINF:-1 tvg-id="ntctv-fish-tv-fhd" tvg-name="Fish TV FHD - Fish TV FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/fishtv.png" group-title="️ ESPORTES ⚽",Fish TV FHD - Fish TV FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-fish-tv-fhd.m3u8?s=3677
 #EXTINF:-1 tvg-id="ntctv-fish-tv-hd" tvg-name="Fish TV HD - Fish TV HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/fishtv.png" group-title="️ ESPORTES ⚽",Fish TV HD - Fish TV HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-fish-tv-hd.m3u8?s=3678
-#EXTINF:-1 tvg-id="ntctv-ge-tv-fhd" tvg-name="GE tv FHD - GE tv FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/getv.png" group-title="️ GE TV ⚽",GE tv FHD - GE tv FHD – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-ge-tv-fhd.m3u8?s=3680
-#EXTINF:-1 tvg-id="ntctv-ge-tv-hd" tvg-name="GE tv HD - GE tv HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/getv.png" group-title="️ GE TV ⚽",GE tv HD - GE tv HD – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-ge-tv-hd.m3u8?s=3681
-#EXTINF:-1 tvg-id="ntctv-x-sports-fhd" tvg-name="X SPORTS FHD - X SPORTS FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/xsports.png" group-title="️ X SPORTS ⚽",X SPORTS FHD - X SPORTS FHD – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-x-sports-fhd.m3u8?s=3683
-#EXTINF:-1 tvg-id="ntctv-x-sports-hd" tvg-name="X SPORTS HD - X SPORTS HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/xsports.png" group-title="️ X SPORTS ⚽",X SPORTS HD - X SPORTS HD – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-x-sports-hd.m3u8?s=3684
-#EXTINF:-1 tvg-id="ntctv-goat-tv-01" tvg-name="GOAT TV 01 - GOAT TV 01 – Ao Vivo" tvg-logo="https://7svoficial.com/canais/canalgoat.png" group-title="️ GOAT ⚽",GOAT TV 01 - GOAT TV 01 – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-goat-tv-01.m3u8?s=3686
-#EXTINF:-1 tvg-id="ntctv-goat-tv-02" tvg-name="GOAT TV 02 - GOAT TV 02 – Ao Vivo" tvg-logo="https://7svoficial.com/canais/canalgoat.png" group-title="️ GOAT ⚽",GOAT TV 02 - GOAT TV 02 – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-goat-tv-02.m3u8?s=3687
-#EXTINF:-1 tvg-id="ntctv-goat-tv-03" tvg-name="GOAT TV 03 - GOAT TV 03 – Ao Vivo" tvg-logo="https://7svoficial.com/canais/canalgoat.png" group-title="️ GOAT ⚽",GOAT TV 03 - GOAT TV 03 – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-goat-tv-03.m3u8?s=3688
-#EXTINF:-1 tvg-id="ntctv-goat-tv-04" tvg-name="GOAT TV 04 - GOAT TV 04 – Ao Vivo" tvg-logo="https://7svoficial.com/canais/canalgoat.png" group-title="️ GOAT ⚽",GOAT TV 04 - GOAT TV 04 – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-goat-tv-04.m3u8?s=3689
-#EXTINF:-1 tvg-id="ntctv-goat-tv-05" tvg-name="GOAT TV 05 - GOAT TV 05 – Ao Vivo" tvg-logo="https://7svoficial.com/canais/canalgoat.png" group-title="️ GOAT ⚽",GOAT TV 05 - GOAT TV 05 – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-goat-tv-05.m3u8?s=3690
-#EXTINF:-1 tvg-id="ntctv-caze-tv-01" tvg-name="Cazé TV 01 - Cazé TV 01 – Ao Vivo" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="️ CAZÉ TV ⚽",Cazé TV 01 - Cazé TV 01 – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-caze-tv-01.m3u8?s=3691
-#EXTINF:-1 tvg-id="ntctv-caze-tv-02" tvg-name="Cazé TV 02 - Cazé TV 02 – Ao Vivo" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="️ CAZÉ TV ⚽",Cazé TV 02 - Cazé TV 02 – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-caze-tv-02.m3u8?s=3692
-#EXTINF:-1 tvg-id="ntctv-caze-tv-03" tvg-name="Cazé TV 03 - Cazé TV 03 – Ao Vivo" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="️ CAZÉ TV ⚽",Cazé TV 03 - Cazé TV 03 – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-caze-tv-03.m3u8?s=3693
-#EXTINF:-1 tvg-id="ntctv-caze-tv-04" tvg-name="Cazé TV 04 - Cazé TV 04 – Ao Vivo" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="️ CAZÉ TV ⚽",Cazé TV 04 - Cazé TV 04 – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-caze-tv-04.m3u8?s=3694
-#EXTINF:-1 tvg-id="ntctv-caze-tv-05" tvg-name="Cazé TV 05 - Cazé TV 05 – Ao Vivo" tvg-logo="https://7svoficial.com/canais/cazetv.png" group-title="️ CAZÉ TV ⚽",Cazé TV 05 - Cazé TV 05 – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-caze-tv-05.m3u8?s=3695
-#EXTINF:-1 tvg-id="ntctv-sportynet-01" tvg-name="SportyNet 01 - SportyNet 01 – Ao Vivo" tvg-logo="https://7svoficial.com/canais/sportynet.png" group-title="️ SPORTYNET ⚽",SportyNet 01 - SportyNet 01 – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-sportynet-01.m3u8?s=3696
-#EXTINF:-1 tvg-id="ntctv-sportynet-02" tvg-name="SportyNet 02 - SportyNet 02 – Ao Vivo" tvg-logo="https://7svoficial.com/canais/sportynet.png" group-title="️ SPORTYNET ⚽",SportyNet 02 - SportyNet 02 – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-sportynet-02.m3u8?s=3697
-#EXTINF:-1 tvg-id="ntctv-sportynet-03" tvg-name="SportyNet 03 - SportyNet 03 – Ao Vivo" tvg-logo="https://7svoficial.com/canais/sportynet.png" group-title="️ SPORTYNET ⚽",SportyNet 03 - SportyNet 03 – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-sportynet-03.m3u8?s=3698
-#EXTINF:-1 tvg-id="ntctv-sportynet-04" tvg-name="SportyNet 04 - SportyNet 04 – Ao Vivo" tvg-logo="https://7svoficial.com/canais/sportynet.png" group-title="️ SPORTYNET ⚽",SportyNet 04 - SportyNet 04 – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-sportynet-04.m3u8?s=3699
-#EXTINF:-1 tvg-id="ntctv-sportynet-05" tvg-name="SportyNet 05 - SportyNet 05 – Ao Vivo" tvg-logo="https://7svoficial.com/canais/sportynet.png" group-title="️ SPORTYNET ⚽",SportyNet 05 - SportyNet 05 – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-sportynet-05.m3u8?s=3700
 #EXTINF:-1 tvg-id="ntctv-sportv-1-fhd" tvg-name="Sportv 1 FHD - Sportv 1 FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/sportv.png" group-title="️ SPORTV ⚽",Sportv 1 FHD - Sportv 1 FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-sportv-1-fhd.m3u8?s=3701
 #EXTINF:-1 tvg-id="ntctv-sportv-1-hd" tvg-name="Sportv 1 HD - Sportv 1 HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/sportv.png" group-title="️ SPORTV ⚽",Sportv 1 HD - Sportv 1 HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-sportv-1-hd.m3u8?s=3702
 #EXTINF:-1 tvg-id="ntctv-sportv-2-fhd" tvg-name="Sportv 2 FHD - Sportv 2 FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/sportv2.png" group-title="️ SPORTV ⚽",Sportv 2 FHD - Sportv 2 FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-sportv-2-fhd.m3u8?s=3704
 #EXTINF:-1 tvg-id="ntctv-sportv-2-hd" tvg-name="Sportv 2 HD - Sportv 2 HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/sportv2.png" group-title="️ SPORTV ⚽",Sportv 2 HD - Sportv 2 HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-sportv-2-hd.m3u8?s=3705
 #EXTINF:-1 tvg-id="ntctv-sportv-3-fhd" tvg-name="Sportv 3 FHD - Sportv 3 FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/sportv3.png" group-title="️ SPORTV ⚽",Sportv 3 FHD - Sportv 3 FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-sportv-3-fhd.m3u8?s=3707
 #EXTINF:-1 tvg-id="ntctv-sportv-3-hd" tvg-name="Sportv 3 HD - Sportv 3 HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/sportv3.png" group-title="️ SPORTV ⚽",Sportv 3 HD - Sportv 3 HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-sportv-3-hd.m3u8?s=3708
 #EXTINF:-1 tvg-id="ntctv-sportv-4-fhd" tvg-name="Sportv 4 FHD - Sportv 4 FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/sportv4.png" group-title="️ SPORTV ⚽",Sportv 4 FHD - Sportv 4 FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-sportv-4-fhd.m3u8?s=3710
 #EXTINF:-1 tvg-id="ntctv-sportv-4-hd" tvg-name="Sportv 4 HD - Sportv 4 HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/sportv4.png" group-title="️ SPORTV ⚽",Sportv 4 HD - Sportv 4 HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-sportv-4-hd.m3u8?s=3711
 #EXTINF:-1 tvg-id="ntctv-combate-fhd" tvg-name="Combate FHD - Combate FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/combate.png" group-title="️ ESPORTES ⚽",Combate FHD - Combate FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-combate-fhd.m3u8?s=3712
 #EXTINF:-1 tvg-id="ntctv-combate-hd" tvg-name="Combate HD - Combate HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/combate.png" group-title="️ ESPORTES ⚽",Combate HD - Combate HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-combate-hd.m3u8?s=3713
-#EXTINF:-1 tvg-id="ntctv-nsports-fhd" tvg-name="Nsports FHD - Nsports FHD – Ao Vivo" tvg-logo="http://32q0d.xyz:8080/images/NSPORTS.png" group-title="️ NSPORTS ⚽",Nsports FHD - Nsports FHD – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-nsports-fhd.m3u8?s=3715
-#EXTINF:-1 tvg-id="ntctv-nsports-fhd-1" tvg-name="Nsports FHD - Nsports FHD – Ao Vivo" tvg-logo="http://32q0d.xyz:8080/images/NSPORTS.png" group-title="️ NSPORTS ⚽",Nsports FHD - Nsports FHD – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-nsports-fhd-1.m3u8?s=3716
 #EXTINF:-1 tvg-id="ntctv-premiere-clubes-fhd" tvg-name="PREMIERE CLUBES FHD - PREMIERE CLUBES FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="️ PREMIERE ⚽",PREMIERE CLUBES FHD - PREMIERE CLUBES FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-clubes-fhd.m3u8?s=3786
 #EXTINF:-1 tvg-id="ntctv-premiere-clubes-hd" tvg-name="PREMIERE CLUBES HD - PREMIERE CLUBES HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="️ PREMIERE ⚽",PREMIERE CLUBES HD - PREMIERE CLUBES HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-clubes-hd.m3u8?s=3787
 #EXTINF:-1 tvg-id="ntctv-premiere-2-fhd" tvg-name="PREMIERE 2 FHD - PREMIERE 2 FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="️ PREMIERE ⚽",PREMIERE 2 FHD - PREMIERE 2 FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-2-fhd.m3u8?s=3789
 #EXTINF:-1 tvg-id="ntctv-premiere-2-hd" tvg-name="PREMIERE 2 HD - PREMIERE 2 HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="️ PREMIERE ⚽",PREMIERE 2 HD - PREMIERE 2 HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-2-hd.m3u8?s=3790
 #EXTINF:-1 tvg-id="ntctv-premiere-3-fhd" tvg-name="PREMIERE 3 FHD - PREMIERE 3 FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="️ PREMIERE ⚽",PREMIERE 3 FHD - PREMIERE 3 FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-3-fhd.m3u8?s=3792
 #EXTINF:-1 tvg-id="ntctv-premiere-3-hd" tvg-name="PREMIERE 3 HD - PREMIERE 3 HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="️ PREMIERE ⚽",PREMIERE 3 HD - PREMIERE 3 HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-3-hd.m3u8?s=3793
 #EXTINF:-1 tvg-id="ntctv-premiere-4-fhd" tvg-name="PREMIERE 4 FHD - PREMIERE 4 FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="️ PREMIERE ⚽",PREMIERE 4 FHD - PREMIERE 4 FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-4-fhd.m3u8?s=3795
 #EXTINF:-1 tvg-id="ntctv-premiere-4-hd" tvg-name="PREMIERE 4 HD - PREMIERE 4 HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="️ PREMIERE ⚽",PREMIERE 4 HD - PREMIERE 4 HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-4-hd.m3u8?s=3796
 #EXTINF:-1 tvg-id="ntctv-premiere-5-fhd" tvg-name="PREMIERE 5 FHD - PREMIERE 5 FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="️ PREMIERE ⚽",PREMIERE 5 FHD - PREMIERE 5 FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-5-fhd.m3u8?s=3798
 #EXTINF:-1 tvg-id="ntctv-premiere-5-hd" tvg-name="PREMIERE 5 HD - PREMIERE 5 HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="️ PREMIERE ⚽",PREMIERE 5 HD - PREMIERE 5 HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-5-hd.m3u8?s=3799
 #EXTINF:-1 tvg-id="ntctv-premiere-6-fhd" tvg-name="PREMIERE 6 FHD - PREMIERE 6 FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="️ PREMIERE ⚽",PREMIERE 6 FHD - PREMIERE 6 FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-6-fhd.m3u8?s=3801
 #EXTINF:-1 tvg-id="ntctv-premiere-6-hd" tvg-name="PREMIERE 6 HD - PREMIERE 6 HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="️ PREMIERE ⚽",PREMIERE 6 HD - PREMIERE 6 HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-6-hd.m3u8?s=3802
 #EXTINF:-1 tvg-id="ntctv-premiere-7-fhd" tvg-name="PREMIERE 7 FHD - PREMIERE 7 FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="️ PREMIERE ⚽",PREMIERE 7 FHD - PREMIERE 7 FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-7-fhd.m3u8?s=3804
 #EXTINF:-1 tvg-id="ntctv-premiere-7-hd" tvg-name="PREMIERE 7 HD - PREMIERE 7 HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="️ PREMIERE ⚽",PREMIERE 7 HD - PREMIERE 7 HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-7-hd.m3u8?s=3805
 #EXTINF:-1 tvg-id="ntctv-premiere-8-fhd" tvg-name="PREMIERE 8 FHD - PREMIERE 8 FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="️ PREMIERE ⚽",PREMIERE 8 FHD - PREMIERE 8 FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-8-fhd.m3u8?s=3807
 #EXTINF:-1 tvg-id="ntctv-premiere-8-hd" tvg-name="PREMIERE 8 HD - PREMIERE 8 HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/premiere.png" group-title="️ PREMIERE ⚽",PREMIERE 8 HD - PREMIERE 8 HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-premiere-8-hd.m3u8?s=3808
 #EXTINF:-1 tvg-id="ntctv-band-news-hd" tvg-name="BAND NEWS HD - BAND NEWS HD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/bandnews.png" group-title="️ NOTICIAS",BAND NEWS HD - BAND NEWS HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-band-news-hd.m3u8?s=3874
 #EXTINF:-1 tvg-id="ntctv-bloomberg-hd" tvg-name="BLOOMBERG HD - BLOOMBERG HD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/bloomberg.png" group-title="️ NOTICIAS",BLOOMBERG HD - BLOOMBERG HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-bloomberg-hd.m3u8?s=3876
 #EXTINF:-1 tvg-id="ntctv-bm-c-news-hd" tvg-name="BM&C NEWS HD - BM&C NEWS HD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/bmec.png" group-title="️ NOTICIAS",BM&C NEWS HD - BM&C NEWS HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-bm-c-news-hd.m3u8?s=3877
 #EXTINF:-1 tvg-id="ntctv-cnbc-hd" tvg-name="CNBC HD - CNBC HD – Ao Vivo" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMjkxX2xpbmVhcl9jaGFubmVsX2Jy_11002_LOGO_360x270.png?timestamp=1738360129298" group-title="️ NOTICIAS",CNBC HD - CNBC HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-cnbc-hd.m3u8?s=3878
 #EXTINF:-1 tvg-id="ntctv-cnn-brasil-hd" tvg-name="CNN BRASIL HD - CNN BRASIL HD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/cnnbrasil.png" group-title="️ NOTICIAS",CNN BRASIL HD - CNN BRASIL HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-cnn-brasil-hd.m3u8?s=3879
 #EXTINF:-1 tvg-id="ntctv-cnn-brasil-fhd" tvg-name="CNN BRASIL FHD - CNN BRASIL FHD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/cnnbrasil.png" group-title="️ NOTICIAS",CNN BRASIL FHD - CNN BRASIL FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-cnn-brasil-fhd.m3u8?s=3880
 #EXTINF:-1 tvg-id="ntctv-cnn-internacional-hd" tvg-name="CNN INTERNACIONAL HD - CNN INTERNACIONAL HD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/cnninternacional.png" group-title="️ NOTICIAS",CNN INTERNACIONAL HD - CNN INTERNACIONAL HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-cnn-internacional-hd.m3u8?s=3881
 #EXTINF:-1 tvg-id="ntctv-cnn-money-hd" tvg-name="CNN MONEY HD - CNN MONEY HD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/cnn.money.png" group-title="️ NOTICIAS",CNN MONEY HD - CNN MONEY HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-cnn-money-hd.m3u8?s=3882
 #EXTINF:-1 tvg-id="ntctv-globo-news-hd" tvg-name="GLOBO NEWS HD - GLOBO NEWS HD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/globonews.png" group-title="️ NOTICIAS",GLOBO NEWS HD - GLOBO NEWS HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-news-hd.m3u8?s=3883
 #EXTINF:-1 tvg-id="ntctv-globo-news-fhd" tvg-name="GLOBO NEWS FHD - GLOBO NEWS FHD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/globonews.png" group-title="️ NOTICIAS",GLOBO NEWS FHD - GLOBO NEWS FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-globo-news-fhd.m3u8?s=3884
 #EXTINF:-1 tvg-id="ntctv-jovem-pan-news-hd" tvg-name="JOVEM PAN NEWS HD - JOVEM PAN NEWS HD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/jovempannews.png" group-title="️ NOTICIAS",JOVEM PAN NEWS HD - JOVEM PAN NEWS HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-jovem-pan-news-hd.m3u8?s=3885
 #EXTINF:-1 tvg-id="ntctv-record-news-hd" tvg-name="RECORD NEWS HD - RECORD NEWS HD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/recordnews.png" group-title="️ NOTICIAS",RECORD NEWS HD - RECORD NEWS HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-record-news-hd.m3u8?s=3886
 #EXTINF:-1 tvg-id="ntctv-hbo-hd" tvg-name="HBO HD - HBO HD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/hbo.png" group-title="️ HBO",HBO HD - HBO HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-hbo-hd.m3u8?s=3900
 #EXTINF:-1 tvg-id="ntctv-hbo-fhd" tvg-name="HBO FHD - HBO FHD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/hbo.png" group-title="️ HBO",HBO FHD - HBO FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-hbo-fhd.m3u8?s=3901
 #EXTINF:-1 tvg-id="ntctv-hbo-2-hd" tvg-name="HBO 2 HD - HBO 2 HD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/hbo2.png" group-title="️ HBO",HBO 2 HD - HBO 2 HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-hbo-2-hd.m3u8?s=3903
 #EXTINF:-1 tvg-id="ntctv-hbo-2-fhd" tvg-name="HBO 2 FHD - HBO 2 FHD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/hbo2.png" group-title="️ HBO",HBO 2 FHD - HBO 2 FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-hbo-2-fhd.m3u8?s=3904
 #EXTINF:-1 tvg-id="ntctv-hbo-family-hd" tvg-name="HBO FAMILY HD - HBO FAMILY HD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/hbofamily.png" group-title="️ HBO",HBO FAMILY HD - HBO FAMILY HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-hbo-family-hd.m3u8?s=3906
 #EXTINF:-1 tvg-id="ntctv-hbo-family-fhd" tvg-name="HBO FAMILY FHD - HBO FAMILY FHD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/hbofamily.png" group-title="️ HBO",HBO FAMILY FHD - HBO FAMILY FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-hbo-family-fhd.m3u8?s=3907
 #EXTINF:-1 tvg-id="ntctv-hbo-mundi-hd" tvg-name="HBO MUNDI HD - HBO MUNDI HD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/hbomundi.png" group-title="️ HBO",HBO MUNDI HD - HBO MUNDI HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-hbo-mundi-hd.m3u8?s=3909
 #EXTINF:-1 tvg-id="ntctv-hbo-mundi-fhd" tvg-name="HBO MUNDI FHD - HBO MUNDI FHD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/hbomundi.png" group-title="️ HBO",HBO MUNDI FHD - HBO MUNDI FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-hbo-mundi-fhd.m3u8?s=3910
 #EXTINF:-1 tvg-id="ntctv-hbo-pop-hd" tvg-name="HBO POP HD - HBO POP HD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/hbopopb.png" group-title="️ HBO",HBO POP HD - HBO POP HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-hbo-pop-hd.m3u8?s=3912
 #EXTINF:-1 tvg-id="ntctv-hbo-pop-fhd" tvg-name="HBO POP FHD - HBO POP FHD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/hbopopb.png" group-title="️ HBO",HBO POP FHD - HBO POP FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-hbo-pop-fhd.m3u8?s=3913
 #EXTINF:-1 tvg-id="ntctv-hbo-plus-hd" tvg-name="HBO PLUS HD - HBO PLUS HD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/hboplus.png" group-title="️ HBO",HBO PLUS HD - HBO PLUS HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-hbo-plus-hd.m3u8?s=3915
 #EXTINF:-1 tvg-id="ntctv-hbo-plus-fhd" tvg-name="HBO PLUS FHD - HBO PLUS FHD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/hboplus.png" group-title="️ HBO",HBO PLUS FHD - HBO PLUS FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-hbo-plus-fhd.m3u8?s=3916
 #EXTINF:-1 tvg-id="ntctv-hbo-signature-hd" tvg-name="HBO SIGNATURE HD - HBO SIGNATURE HD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/hbosignatureb.png" group-title="️ HBO",HBO SIGNATURE HD - HBO SIGNATURE HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-hbo-signature-hd.m3u8?s=3918
 #EXTINF:-1 tvg-id="ntctv-hbo-signature-fhd" tvg-name="HBO SIGNATURE FHD - HBO SIGNATURE FHD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/hbosignatureb.png" group-title="️ HBO",HBO SIGNATURE FHD - HBO SIGNATURE FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-hbo-signature-fhd.m3u8?s=3919
 #EXTINF:-1 tvg-id="ntctv-hbo-xtreme-hd" tvg-name="HBO XTREME HD - HBO XTREME HD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/hboxtreme.png" group-title="️ HBO",HBO XTREME HD - HBO XTREME HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-hbo-xtreme-hd.m3u8?s=3921
 #EXTINF:-1 tvg-id="ntctv-hbo-xtreme-fhd" tvg-name="HBO XTREME FHD - HBO XTREME FHD – Ao Vivo" tvg-logo="https://logos.tonaonda.uk/logos/hboxtreme.png" group-title="️ HBO",HBO XTREME FHD - HBO XTREME FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-hbo-xtreme-fhd.m3u8?s=3922
 #EXTINF:-1 tvg-id="ntctv-arte1-fhd" tvg-name="ARTE1 FHD - ARTE1 FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/arte1.png" group-title="️ VARIEDADES",ARTE1 FHD - ARTE1 FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-arte1-fhd.m3u8?s=3937
 #EXTINF:-1 tvg-id="ntctv-arte1-hd" tvg-name="ARTE1 HD - ARTE1 HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/arte1.png" group-title="️ VARIEDADES",ARTE1 HD - ARTE1 HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-arte1-hd.m3u8?s=3938
 #EXTINF:-1 tvg-id="ntctv-adult-swim-fhd" tvg-name="ADULT SWIM FHD - ADULT SWIM FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/adultswim.png" group-title="️ VARIEDADES",ADULT SWIM FHD - ADULT SWIM FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-adult-swim-fhd.m3u8?s=3939
 #EXTINF:-1 tvg-id="ntctv-adult-swim-hd" tvg-name="ADULT SWIM HD - ADULT SWIM HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/adultswim.png" group-title="️ VARIEDADES",ADULT SWIM HD - ADULT SWIM HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-adult-swim-hd.m3u8?s=3940
 #EXTINF:-1 tvg-id="ntctv-canal-brasil-fhd" tvg-name="CANAL BRASIL FHD - CANAL BRASIL FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/canalbrasil.png" group-title="️ VARIEDADES",CANAL BRASIL FHD - CANAL BRASIL FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-canal-brasil-fhd.m3u8?s=3942
 #EXTINF:-1 tvg-id="ntctv-canal-brasil-hd" tvg-name="CANAL BRASIL HD - CANAL BRASIL HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/canalbrasil.png" group-title="️ VARIEDADES",CANAL BRASIL HD - CANAL BRASIL HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-canal-brasil-hd.m3u8?s=3943
 #EXTINF:-1 tvg-id="ntctv-curta-fhd" tvg-name="CURTA! FHD - CURTA! FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/curta!.png" group-title="️ VARIEDADES",CURTA! FHD - CURTA! FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-curta-fhd.m3u8?s=3945
 #EXTINF:-1 tvg-id="ntctv-curta-hd" tvg-name="CURTA! HD - CURTA! HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/curta!.png" group-title="️ VARIEDADES",CURTA! HD - CURTA! HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-curta-hd.m3u8?s=3946
 #EXTINF:-1 tvg-id="ntctv-canal-off-fhd" tvg-name="CANAL OFF FHD - CANAL OFF FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/canaloff.png" group-title="️ VARIEDADES",CANAL OFF FHD - CANAL OFF FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-canal-off-fhd.m3u8?s=3947
 #EXTINF:-1 tvg-id="ntctv-canal-off-hd" tvg-name="CANAL OFF HD - CANAL OFF HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/canaloff.png" group-title="️ VARIEDADES",CANAL OFF HD - CANAL OFF HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-canal-off-hd.m3u8?s=3948
 #EXTINF:-1 tvg-id="ntctv-dogtv-fhd" tvg-name="DOGTV FHD - DOGTV FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/dogtv.png" group-title="️ VARIEDADES",DOGTV FHD - DOGTV FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-dogtv-fhd.m3u8?s=3950
 #EXTINF:-1 tvg-id="ntctv-dogtv-hd" tvg-name="DOGTV HD - DOGTV HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/dogtv.png" group-title="️ VARIEDADES",DOGTV HD - DOGTV HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-dogtv-hd.m3u8?s=3951
 #EXTINF:-1 tvg-id="ntctv-e-fhd" tvg-name="E! FHD - E! FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/e!.png" group-title="️ VARIEDADES",E! FHD - E! FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-e-fhd.m3u8?s=3953
 #EXTINF:-1 tvg-id="ntctv-e-hd" tvg-name="E! HD - E! HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/e!.png" group-title="️ VARIEDADES",E! HD - E! HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-e-hd.m3u8?s=3954
 #EXTINF:-1 tvg-id="ntctv-fish-tv-fhd-1" tvg-name="FISH TV FHD - FISH TV FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/fishtv.png" group-title="️ VARIEDADES",FISH TV FHD - FISH TV FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-fish-tv-fhd-1.m3u8?s=3955
 #EXTINF:-1 tvg-id="ntctv-fish-tv-hd-1" tvg-name="FISH TV HD - FISH TV HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/fishtv.png" group-title="️ VARIEDADES",FISH TV HD - FISH TV HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-fish-tv-hd-1.m3u8?s=3956
 #EXTINF:-1 tvg-id="ntctv-food-network-fhd" tvg-name="FOOD NETWORK FHD - FOOD NETWORK FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/foodnetwork.png" group-title="️ VARIEDADES",FOOD NETWORK FHD - FOOD NETWORK FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-food-network-fhd.m3u8?s=3958
 #EXTINF:-1 tvg-id="ntctv-food-network-hd" tvg-name="FOOD NETWORK HD - FOOD NETWORK HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/foodnetwork.png" group-title="️ VARIEDADES",FOOD NETWORK HD - FOOD NETWORK HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-food-network-hd.m3u8?s=3959
 #EXTINF:-1 tvg-id="ntctv-gnt-fhd" tvg-name="GNT FHD - GNT FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/gnt.png" group-title="️ VARIEDADES",GNT FHD - GNT FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-gnt-fhd.m3u8?s=3961
 #EXTINF:-1 tvg-id="ntctv-gnt-hd" tvg-name="GNT HD - GNT HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/gnt.png" group-title="️ VARIEDADES",GNT HD - GNT HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-gnt-hd.m3u8?s=3962
 #EXTINF:-1 tvg-id="ntctv-lifetime-fhd" tvg-name="LIFETIME FHD - LIFETIME FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/lifetime.png" group-title="️ VARIEDADES",LIFETIME FHD - LIFETIME FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-lifetime-fhd.m3u8?s=3964
 #EXTINF:-1 tvg-id="ntctv-lifetime-hd" tvg-name="LIFETIME HD - LIFETIME HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/lifetime.png" group-title="️ VARIEDADES",LIFETIME HD - LIFETIME HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-lifetime-hd.m3u8?s=3965
 #EXTINF:-1 tvg-id="ntctv-modo-viagem-fhd" tvg-name="MODO VIAGEM FHD - MODO VIAGEM FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/modoviagem.png" group-title="️ VARIEDADES",MODO VIAGEM FHD - MODO VIAGEM FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-modo-viagem-fhd.m3u8?s=3967
 #EXTINF:-1 tvg-id="ntctv-modo-viagem-hd" tvg-name="MODO VIAGEM HD - MODO VIAGEM HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/modoviagem.png" group-title="️ VARIEDADES",MODO VIAGEM HD - MODO VIAGEM HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-modo-viagem-hd.m3u8?s=3968
 #EXTINF:-1 tvg-id="ntctv-tlc-fhd" tvg-name="TLC FHD - TLC FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/tlc.png" group-title="️ VARIEDADES",TLC FHD - TLC FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-tlc-fhd.m3u8?s=3970
 #EXTINF:-1 tvg-id="ntctv-tlc-hd" tvg-name="TLC HD - TLC HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/tlc.png" group-title="️ VARIEDADES",TLC HD - TLC HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-tlc-hd.m3u8?s=3971
 #EXTINF:-1 tvg-id="ntctv-trace-brazuca-fhd" tvg-name="TRACE BRAZUCA FHD - TRACE BRAZUCA FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/tracebrazuca.png" group-title="️ VARIEDADES",TRACE BRAZUCA FHD - TRACE BRAZUCA FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-trace-brazuca-fhd.m3u8?s=3973
 #EXTINF:-1 tvg-id="ntctv-trace-brazuca-hd" tvg-name="TRACE BRAZUCA HD - TRACE BRAZUCA HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/tracebrazuca.png" group-title="️ VARIEDADES",TRACE BRAZUCA HD - TRACE BRAZUCA HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-trace-brazuca-hd.m3u8?s=3974
 #EXTINF:-1 tvg-id="ntctv-tv5-monde-fhd" tvg-name="TV5 MONDE FHD - TV5 MONDE FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/tv5monde.png" group-title="️ VARIEDADES",TV5 MONDE FHD - TV5 MONDE FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-tv5-monde-fhd.m3u8?s=3976
 #EXTINF:-1 tvg-id="ntctv-tv5-monde-hd" tvg-name="TV5 MONDE HD - TV5 MONDE HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/tv5monde.png" group-title="️ VARIEDADES",TV5 MONDE HD - TV5 MONDE HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-tv5-monde-hd.m3u8?s=3977
 #EXTINF:-1 tvg-id="ntctv-canal-woohoo-fhd" tvg-name="CANAL WOOHOO FHD - CANAL WOOHOO FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/woohoo.png" group-title="️ VARIEDADES",CANAL WOOHOO FHD - CANAL WOOHOO FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-canal-woohoo-fhd.m3u8?s=3979
 #EXTINF:-1 tvg-id="ntctv-canal-woohoo-hd" tvg-name="CANAL WOOHOO HD - CANAL WOOHOO HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/woohoo.png" group-title="️ VARIEDADES",CANAL WOOHOO HD - CANAL WOOHOO HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-canal-woohoo-hd.m3u8?s=3980
 #EXTINF:-1 tvg-id="ntctv-discovery-channel-fhd" tvg-name="DISCOVERY CHANNEL FHD - DISCOVERY CHANNEL FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/discoverychannel.png" group-title="️ DISCOVERY",DISCOVERY CHANNEL FHD - DISCOVERY CHANNEL FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-discovery-channel-fhd.m3u8?s=3982
 #EXTINF:-1 tvg-id="ntctv-discovery-channel-hd" tvg-name="DISCOVERY CHANNEL HD - DISCOVERY CHANNEL HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/discoverychannel.png" group-title="️ DISCOVERY",DISCOVERY CHANNEL HD - DISCOVERY CHANNEL HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-discovery-channel-hd.m3u8?s=3983
 #EXTINF:-1 tvg-id="ntctv-discovery-h-h-fhd" tvg-name="DISCOVERY H&H FHD - DISCOVERY H&H FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/discoveryh&h.png" group-title="️ DISCOVERY",DISCOVERY H&H FHD - DISCOVERY H&H FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-discovery-h-h-fhd.m3u8?s=3985
 #EXTINF:-1 tvg-id="ntctv-discovery-h-h-hd" tvg-name="DISCOVERY H&H HD - DISCOVERY H&H HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/discoveryh&h.png" group-title="️ DISCOVERY",DISCOVERY H&H HD - DISCOVERY H&H HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-discovery-h-h-hd.m3u8?s=3986
 #EXTINF:-1 tvg-id="ntctv-discovery-science-fhd" tvg-name="DISCOVERY SCIENCE FHD - DISCOVERY SCIENCE FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/discoveryscience.png" group-title="️ DISCOVERY",DISCOVERY SCIENCE FHD - DISCOVERY SCIENCE FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-discovery-science-fhd.m3u8?s=3988
 #EXTINF:-1 tvg-id="ntctv-discovery-science-hd" tvg-name="DISCOVERY SCIENCE HD - DISCOVERY SCIENCE HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/discoveryscience.png" group-title="️ DISCOVERY",DISCOVERY SCIENCE HD - DISCOVERY SCIENCE HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-discovery-science-hd.m3u8?s=3989
 #EXTINF:-1 tvg-id="ntctv-discovery-theater-fhd" tvg-name="DISCOVERY THEATER FHD - DISCOVERY THEATER FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/discoverytheater.png" group-title="️ DISCOVERY",DISCOVERY THEATER FHD - DISCOVERY THEATER FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-discovery-theater-fhd.m3u8?s=3991
 #EXTINF:-1 tvg-id="ntctv-discovery-theater-hd" tvg-name="DISCOVERY THEATER HD - DISCOVERY THEATER HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/discoverytheater.png" group-title="️ DISCOVERY",DISCOVERY THEATER HD - DISCOVERY THEATER HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-discovery-theater-hd.m3u8?s=3992
 #EXTINF:-1 tvg-id="ntctv-discovery-turbo-fhd" tvg-name="DISCOVERY TURBO FHD - DISCOVERY TURBO FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/discoveryturbo.png" group-title="️ DISCOVERY",DISCOVERY TURBO FHD - DISCOVERY TURBO FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-discovery-turbo-fhd.m3u8?s=3994
 #EXTINF:-1 tvg-id="ntctv-discovery-turbo-hd" tvg-name="DISCOVERY TURBO HD - DISCOVERY TURBO HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/discoveryturbo.png" group-title="️ DISCOVERY",DISCOVERY TURBO HD - DISCOVERY TURBO HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-discovery-turbo-hd.m3u8?s=3995
 #EXTINF:-1 tvg-id="ntctv-discovery-world-fhd" tvg-name="DISCOVERY WORLD FHD - DISCOVERY WORLD FHD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/discoveryworld.png" group-title="️ DISCOVERY",DISCOVERY WORLD FHD - DISCOVERY WORLD FHD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-discovery-world-fhd.m3u8?s=3997
 #EXTINF:-1 tvg-id="ntctv-discovery-world-hd" tvg-name="DISCOVERY WORLD HD - DISCOVERY WORLD HD – Ao Vivo" tvg-logo="https://7svoficial.com/canais/discoveryworld.png" group-title="️ DISCOVERY",DISCOVERY WORLD HD - DISCOVERY WORLD HD – Ao Vivo
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:live-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
 https://ntcstudios.com.br/ntctv/play/live/ntctv-discovery-world-hd.m3u8?s=3998
-#EXTINF:-1 tvg-id="ntctv-ufc-fhd" tvg-name="UFC FHD - UFC FHD – Ao Vivo" tvg-logo="" group-title="️ LUTAS",UFC FHD - UFC FHD – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-ufc-fhd.m3u8?s=4006
-#EXTINF:-1 tvg-id="ntctv-ufc-hd" tvg-name="UFC HD - UFC HD – Ao Vivo" tvg-logo="" group-title="️ LUTAS",UFC HD - UFC HD – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-ufc-hd.m3u8?s=4007
-#EXTINF:-1 tvg-id="ntctv-14-45-aek-x-real-madrid-fhd-1" tvg-name="14:45 - AEK X REAL MADRID FHD [1] - 14:45 - AEK X REAL MADRID FHD [1] – Ao Vivo" tvg-logo="https://i.imgur.com/DfH3E0N.png" group-title="JOGOS DO DIA",14:45 - AEK X REAL MADRID FHD [1] - 14:45 - AEK X REAL MADRID FHD [1] – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-14-45-aek-x-real-madrid-fhd-1.m3u8?s=5234
-#EXTINF:-1 tvg-id="ntctv-14-45-aek-x-real-madrid-hd-1" tvg-name="14:45 - AEK X REAL MADRID HD [1] - 14:45 - AEK X REAL MADRID HD [1] – Ao Vivo" tvg-logo="https://i.imgur.com/DfH3E0N.png" group-title="JOGOS DO DIA",14:45 - AEK X REAL MADRID HD [1] - 14:45 - AEK X REAL MADRID HD [1] – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-14-45-aek-x-real-madrid-hd-1.m3u8?s=5235
-#EXTINF:-1 tvg-id="ntctv-14-45-fenerbahce-x-liverpool-1" tvg-name="14:45 - FENERBAHÇE X LIVERPOOL [1] - 14:45 - FENERBAHÇE X LIVERPOOL [1] – Ao Vivo" tvg-logo="https://i.imgur.com/DfH3E0N.png" group-title="JOGOS DO DIA",14:45 - FENERBAHÇE X LIVERPOOL [1] - 14:45 - FENERBAHÇE X LIVERPOOL [1] – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-14-45-fenerbahce-x-liverpool-1.m3u8?s=5236
-#EXTINF:-1 tvg-id="ntctv-slavia-praga-x-arsenal-17h-fhd-1" tvg-name="SLAVIA PRAGA X ARSENAL 17H FHD [1] - SLAVIA PRAGA X ARSENAL 17H FHD [1] – Ao Vivo" tvg-logo="https://i.imgur.com/DfH3E0N.png" group-title="JOGOS DO DIA",SLAVIA PRAGA X ARSENAL 17H FHD [1] - SLAVIA PRAGA X ARSENAL 17H FHD [1] – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-slavia-praga-x-arsenal-17h-fhd-1.m3u8?s=5237
-#EXTINF:-1 tvg-id="ntctv-slavia-praga-x-arsenal-17h-hd-1" tvg-name="SLAVIA PRAGA X ARSENAL 17H HD [1] - SLAVIA PRAGA X ARSENAL 17H HD [1] – Ao Vivo" tvg-logo="https://i.imgur.com/DfH3E0N.png" group-title="JOGOS DO DIA",SLAVIA PRAGA X ARSENAL 17H HD [1] - SLAVIA PRAGA X ARSENAL 17H HD [1] – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-slavia-praga-x-arsenal-17h-hd-1.m3u8?s=5238
-#EXTINF:-1 tvg-id="ntctv-borussia-dortmund-x-real-betis-17h-1" tvg-name="BORUSSIA DORTMUND X REAL BETIS 17H [1] - BORUSSIA DORTMUND X REAL BETIS 17H [1] – Ao Vivo" tvg-logo="https://i.imgur.com/DfH3E0N.png" group-title="JOGOS DO DIA",BORUSSIA DORTMUND X REAL BETIS 17H [1] - BORUSSIA DORTMUND X REAL BETIS 17H [1] – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-borussia-dortmund-x-real-betis-17h-1.m3u8?s=5239
-#EXTINF:-1 tvg-id="ntctv-19-30-flamengo-x-gremio-fhd-1" tvg-name="19:30 - FLAMENGO X GRÊMIO FHD [1] - 19:30 - FLAMENGO X GRÊMIO FHD [1] – Ao Vivo" tvg-logo="https://i.imgur.com/DfH3E0N.png" group-title="JOGOS DO DIA",19:30 - FLAMENGO X GRÊMIO FHD [1] - 19:30 - FLAMENGO X GRÊMIO FHD [1] – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-19-30-flamengo-x-gremio-fhd-1.m3u8?s=5240
-#EXTINF:-1 tvg-id="ntctv-19-30-flamengo-x-gremio-hd-1" tvg-name="19:30 - FLAMENGO X GRÊMIO HD [1] - 19:30 - FLAMENGO X GRÊMIO HD [1] – Ao Vivo" tvg-logo="https://i.imgur.com/DfH3E0N.png" group-title="JOGOS DO DIA",19:30 - FLAMENGO X GRÊMIO HD [1] - 19:30 - FLAMENGO X GRÊMIO HD [1] – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-19-30-flamengo-x-gremio-hd-1.m3u8?s=5241
-#EXTINF:-1 tvg-id="ntctv-19-30-athletico-pr-x-vasco-fhd-1" tvg-name="19:30 - ATHLETICO-PR X VASCO FHD [1] - 19:30 - ATHLETICO-PR X VASCO FHD [1] – Ao Vivo" tvg-logo="https://i.imgur.com/DfH3E0N.png" group-title="JOGOS DO DIA",19:30 - ATHLETICO-PR X VASCO FHD [1] - 19:30 - ATHLETICO-PR X VASCO FHD [1] – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-19-30-athletico-pr-x-vasco-fhd-1.m3u8?s=5243
-#EXTINF:-1 tvg-id="ntctv-19-30-athletico-pr-x-vasco-hd-1" tvg-name="19:30 - ATHLETICO-PR X VASCO HD [1] - 19:30 - ATHLETICO-PR X VASCO HD [1] – Ao Vivo" tvg-logo="https://i.imgur.com/DfH3E0N.png" group-title="JOGOS DO DIA",19:30 - ATHLETICO-PR X VASCO HD [1] - 19:30 - ATHLETICO-PR X VASCO HD [1] – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-19-30-athletico-pr-x-vasco-hd-1.m3u8?s=5244
-#EXTINF:-1 tvg-id="ntctv-21-30-sao-paulo-x-corinthians-fhd-1" tvg-name="21:30 - SÃO PAULO X CORINTHIANS FHD [1] - 21:30 - SÃO PAULO X CORINTHIANS FHD [1] – Ao Vivo" tvg-logo="https://i.imgur.com/DfH3E0N.png" group-title="JOGOS DO DIA",21:30 - SÃO PAULO X CORINTHIANS FHD [1] - 21:30 - SÃO PAULO X CORINTHIANS FHD [1] – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-21-30-sao-paulo-x-corinthians-fhd-1.m3u8?s=5246
-#EXTINF:-1 tvg-id="ntctv-21-30-sao-paulo-x-corinthians-hd-1" tvg-name="21:30 - SÃO PAULO X CORINTHIANS HD [1] - 21:30 - SÃO PAULO X CORINTHIANS HD [1] – Ao Vivo" tvg-logo="https://i.imgur.com/DfH3E0N.png" group-title="JOGOS DO DIA",21:30 - SÃO PAULO X CORINTHIANS HD [1] - 21:30 - SÃO PAULO X CORINTHIANS HD [1] – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-21-30-sao-paulo-x-corinthians-hd-1.m3u8?s=5247
-#EXTINF:-1 tvg-id="ntctv-21-30-botafogo-x-atletico-mg-fhd-1" tvg-name="21:30 - BOTAFOGO X ATLÉTICO-MG FHD [1] - 21:30 - BOTAFOGO X ATLÉTICO-MG FHD [1] – Ao Vivo" tvg-logo="https://i.imgur.com/DfH3E0N.png" group-title="JOGOS DO DIA",21:30 - BOTAFOGO X ATLÉTICO-MG FHD [1] - 21:30 - BOTAFOGO X ATLÉTICO-MG FHD [1] – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-21-30-botafogo-x-atletico-mg-fhd-1.m3u8?s=5249
-#EXTINF:-1 tvg-id="ntctv-21-30-botafogo-x-atletico-mg-hd-1" tvg-name="21:30 - BOTAFOGO X ATLÉTICO-MG HD [1] - 21:30 - BOTAFOGO X ATLÉTICO-MG HD [1] – Ao Vivo" tvg-logo="https://i.imgur.com/DfH3E0N.png" group-title="JOGOS DO DIA",21:30 - BOTAFOGO X ATLÉTICO-MG HD [1] - 21:30 - BOTAFOGO X ATLÉTICO-MG HD [1] – Ao Vivo
-#EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=3000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Stremio/4.4.168
-https://ntcstudios.com.br/ntctv/play/live/ntctv-21-30-botafogo-x-atletico-mg-hd-1.m3u8?s=5250

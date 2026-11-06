@@ -1,431 +1,431 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ESPN HD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="ESPN",ESPN HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/juangu2506/64564489954/195675.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195675.ts
 #EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="ESPN",ESPN 2 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV102/9NMJvQWsYE/195679.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195679.ts
 #EXTINF:-1 tvg-name="ESPN 3 HD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="ESPN",ESPN 3 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/195681.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/juangu2506/64564489954/195681.ts
 #EXTINF:-1 tvg-name="ESPN 4 HD" tvg-logo="https://elcomercio.pe/resizer/QikIJlcwRoKBJUtP64TMVNZKxZk=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/734Z5O7GVRH3XPIBNPA4AZSYFQ.png" group-title="ESPN",ESPN 4 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
 http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195684.ts
 #EXTINF:-1 tvg-name="ESPN 5 HD" tvg-logo="https://i.postimg.cc/c4VX2vfg/ESPN-5.png" group-title="ESPN",ESPN 5 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/hipolitoat2110/51956038336/195496.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195496.ts
 #EXTINF:-1 tvg-name="ESPN EXTRA HD" tvg-logo="https://pbs.twimg.com/media/FytQLIxXgAATtYC.jpg:large" group-title="ESPN",ESPN EXTRA HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/juangu2506/64564489954/195673.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195673.ts
 #EXTINF:-1 tvg-name="SPORTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="SPORTV",SPORTV HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV102/9NMJvQWsYE/195692.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/juangu2506/64564489954/195692.ts
 #EXTINF:-1 tvg-name="SPORTV 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="SPORTV",SPORTV 2 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/195688.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195688.ts
 #EXTINF:-1 tvg-name="SPORTV 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="SPORTV",SPORTV 3 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195690.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195690.ts
 #EXTINF:-1 tvg-name="PREMIERE 2 HD" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="PREMIERE",PREMIERE 2 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/hipolitoat2110/51956038336/195716.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195716.ts
 #EXTINF:-1 tvg-name="PREMIERE 3 HD" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="PREMIERE",PREMIERE 3 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
 http://infinitavision.online:80/live/juangu2506/64564489954/195719.ts
 #EXTINF:-1 tvg-name="PREMIERE 4 HD" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="PREMIERE",PREMIERE 4 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV102/9NMJvQWsYE/195722.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195722.ts
 #EXTINF:-1 tvg-name="PREMIERE 5 HD" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="PREMIERE",PREMIERE 5 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/195724.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195724.ts
 #EXTINF:-1 tvg-name="PREMIERE 6 FHD" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="PREMIERE",PREMIERE 6 FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195725.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195725.ts
 #EXTINF:-1 tvg-name="PREMIERE 7 FHD" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="PREMIERE",PREMIERE 7 FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/hipolitoat2110/51956038336/195727.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/juangu2506/64564489954/195727.ts
 #EXTINF:-1 tvg-name="PREMIERE CLUBES HD" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="PREMIERE",PREMIERE CLUBES HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/juangu2506/64564489954/195731.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195731.ts
 #EXTINF:-1 tvg-name="BAND SPORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcJ9Z39UbNSGwTd70oF-U_QN8qpe1FX0swuacOcWu85Q&s" group-title="ESPORTES",BAND SPORTS HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV102/9NMJvQWsYE/195417.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195417.ts
 #EXTINF:-1 tvg-name="COMBATE HD" tvg-logo="https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png" group-title="ESPORTES",COMBATE HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/195449.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195449.ts
 #EXTINF:-1 tvg-name="FISH TV FHD" tvg-logo="https://bravi.tv/wp-content/uploads/2019/09/Logo-Fish-TV-versao-mono-principal-1-1.png" group-title="ESPORTES",FISH TV FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195489.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/juangu2506/64564489954/195489.ts
 #EXTINF:-1 tvg-name="FOX SPORTS 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Fox_Sports_2_Logo_2022.png" group-title="ESPORTES",FOX SPORTS 2 FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/hipolitoat2110/51956038336/195495.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195495.ts
 #EXTINF:-1 tvg-name="TNT SPORTS 01 HD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/5/52/Logo_TNT_Sports_2021.png/revision/latest?cb=20210118175837&path-prefix=es" group-title="ESPORTES",TNT SPORTS 01 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/juangu2506/64564489954/195695.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195695.ts
 #EXTINF:-1 tvg-name="TNT SPORTS 02 HD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/5/52/Logo_TNT_Sports_2021.png/revision/latest?cb=20210118175837&path-prefix=es" group-title="ESPORTES",TNT SPORTS 02 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV102/9NMJvQWsYE/195696.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195696.ts
 #EXTINF:-1 tvg-name="TNT SPORTS 03 HD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/5/52/Logo_TNT_Sports_2021.png/revision/latest?cb=20210118175837&path-prefix=es" group-title="ESPORTES",TNT SPORTS 03 HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/195697.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/juangu2506/64564489954/195697.ts
 #EXTINF:-1 tvg-name="HBO FHD" tvg-logo="https://w7.pngwing.com/pngs/914/277/png-transparent-hbo-television-channel-logo-television-show-design-television-text-logo.png" group-title="HBO",HBO FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
 http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195524.ts
 #EXTINF:-1 tvg-name="HBO 2 FHD" tvg-logo="https://w7.pngwing.com/pngs/1007/946/png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png" group-title="HBO",HBO 2 FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/hipolitoat2110/51956038336/195527.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195527.ts
 #EXTINF:-1 tvg-name="HBO FAMILY FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7N13MyIY68Gq1ai1nGRl1HEoPuB_yrmgMD3hGb69aIQ&s" group-title="HBO",HBO FAMILY FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/juangu2506/64564489954/195507.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195507.ts
 #EXTINF:-1 tvg-name="HBO MUNDI FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-D_HNb4sSdBYIZftZJsfpgd_FA4_roXNNWnnJgqDpQ&s" group-title="HBO",HBO MUNDI FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV102/9NMJvQWsYE/195512.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/juangu2506/64564489954/195512.ts
 #EXTINF:-1 tvg-name="HBO PLUS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="HBO",HBO PLUS HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/195515.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195515.ts
 #EXTINF:-1 tvg-name="HBO POP FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNPW6qZl31sHhpeO_r4TBW4MEgvOz4vg-1Z0H0hljpw&s" group-title="HBO",HBO POP FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195517.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195517.ts
 #EXTINF:-1 tvg-name="HBO SIGNATURE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png" group-title="HBO",HBO SIGNATURE HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/hipolitoat2110/51956038336/195521.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195521.ts
 #EXTINF:-1 tvg-name="HBO XTREME HD" tvg-logo="https://vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/canal-hbo-xtreme-252x252.png" group-title="HBO",HBO XTREME HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
 http://infinitavision.online:80/live/juangu2506/64564489954/195523.ts
 #EXTINF:-1 tvg-name="TELECINE ACTION FHD" tvg-logo="https://i.pinimg.com/originals/8b/93/71/8b9371a84636e5303c71c815b7e236cd.png" group-title="TELECINE",TELECINE ACTION FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV102/9NMJvQWsYE/195608.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195608.ts
 #EXTINF:-1 tvg-name="TELECINE CULT FHD" tvg-logo="https://i.vimeocdn.com/video/810187333-51e53d3b2a1939f2dea937c289fb01f8937d83a07fff943bb46a180285b90b9c-d_750x421.875?q=60" group-title="TELECINE",TELECINE CULT FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/195611.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195611.ts
 #EXTINF:-1 tvg-name="TELECINE FUN FHD" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-fun_m.png" group-title="TELECINE",TELECINE FUN FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195614.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195614.ts
 #EXTINF:-1 tvg-name="TELECINE PIPOCA FHD" tvg-logo="https://i.pinimg.com/originals/33/f3/e6/33f3e62bfd5a8c76e47a3174cc881824.png" group-title="TELECINE",TELECINE PIPOCA FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/hipolitoat2110/51956038336/195617.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/juangu2506/64564489954/195617.ts
 #EXTINF:-1 tvg-name="TELECINE PREMIUM HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/TC_Premium.png/revision/latest?cb=20220114150115&path-prefix=es" group-title="TELECINE",TELECINE PREMIUM HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/juangu2506/64564489954/195621.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195621.ts
 #EXTINF:-1 tvg-name="TELECINE TOUCH HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-touch_m.png" group-title="TELECINE",TELECINE TOUCH HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV102/9NMJvQWsYE/195623.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195623.ts
 #EXTINF:-1 tvg-name="A&E FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoBTD3yx0x7-M9aTSA8KdnOw4UAny3wAmmT8O07JYjw&s" group-title="FILMES & SERIES",A&E FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/195395.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195395.ts
 #EXTINF:-1 tvg-name="AMC HD" tvg-logo="https://e7.pngegg.com/pngimages/852/748/png-clipart-amc-logo-television-show-graphic-design-amc-television-text.png" group-title="FILMES & SERIES",AMC HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195399.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/juangu2506/64564489954/195399.ts
 #EXTINF:-1 tvg-name="AXN FHD" tvg-logo="https://download.logo.wine/logo/AXN_(Portuguese_TV_channel)/AXN_(Portuguese_TV_channel)-Logo.wine.png" group-title="FILMES & SERIES",AXN FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/hipolitoat2110/51956038336/195404.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195404.ts
 #EXTINF:-1 tvg-name="CINEMAX FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX9Vb5t8WXo43RORt6t2Iatfa32_udgLlfoHnhjLmr4A&s" group-title="FILMES & SERIES",CINEMAX FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/juangu2506/64564489954/195442.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195442.ts
 #EXTINF:-1 tvg-name="CURTA! HD" tvg-logo="https://telaviva.com.br/wp-content/uploads/2016/06/canalcurta_0-E.jpg" group-title="FILMES & SERIES",CURTA! HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV102/9NMJvQWsYE/195454.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195454.ts
 #EXTINF:-1 tvg-name="FX FHD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_fx_m.png" group-title="FILMES & SERIES",FX FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/195498.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/juangu2506/64564489954/195498.ts
 #EXTINF:-1 tvg-name="MEGAPIX FHD" tvg-logo="https://t2.tudocdn.net/521293?w=1920&h=1080" group-title="FILMES & SERIES",MEGAPIX FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
 http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195545.ts
 #EXTINF:-1 tvg-name="PARAMOUNT FHD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_paramount-channel_m.png" group-title="FILMES & SERIES",PARAMOUNT FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/hipolitoat2110/51956038336/195568.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195568.ts
 #EXTINF:-1 tvg-name="SONY FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq3yPj-UzXZyIg45wa1mXJsLxx8KZZ_xEMbh-pH2xdrA&s" group-title="FILMES & SERIES",SONY FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/juangu2506/64564489954/195582.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195582.ts
 #EXTINF:-1 tvg-name="SPACE FHD" tvg-logo="https://logos-world.net/wp-content/uploads/2023/03/Space-Logo.png" group-title="FILMES & SERIES",SPACE FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV102/9NMJvQWsYE/195585.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/juangu2506/64564489954/195585.ts
 #EXTINF:-1 tvg-name="STAR CHANNEL FHD" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/about-sc_1d87858d.png" group-title="FILMES & SERIES",STAR CHANNEL FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/195588.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195588.ts
 #EXTINF:-1 tvg-name="STAR LIFE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEriUGBjHccmbNRCfCqfLNx8AQJaLlpKzG0TB8wr75HA&s" group-title="FILMES & SERIES",STAR LIFE FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195591.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195591.ts
 #EXTINF:-1 tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg" group-title="FILMES & SERIES",STUDIO UNIVERSAL FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/hipolitoat2110/51956038336/195598.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195598.ts
 #EXTINF:-1 tvg-name="SYFY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" group-title="FILMES & SERIES",SYFY FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
 http://infinitavision.online:80/live/juangu2506/64564489954/195601.ts
 #EXTINF:-1 tvg-name="TBS FHD" tvg-logo="https://www.pngfind.com/pngs/m/19-197362_cartoon-network-tv-channel-icon-tbs-network-logo.png" group-title="FILMES & SERIES",TBS FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV102/9NMJvQWsYE/195604.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195604.ts
 #EXTINF:-1 tvg-name="TNT FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9PWNO2Ls4Hj1M-_lOzxwG1h2cv9vKft5cSFe2ya8r1g&s" group-title="FILMES & SERIES",TNT FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/195629.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195629.ts
 #EXTINF:-1 tvg-name="TNT SERIES FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0J565tyErls-PxHhPuGQdsl0e0iqQY9Bdc9O74chDwg&s" group-title="FILMES & SERIES",TNT SERIES FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195627.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195627.ts
 #EXTINF:-1 tvg-name="UNIVERSAL TV FHD" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/4/42/Universal_TV_logo.svg/revision/latest/scale-to-width-down/200?cb=20200116213647&path-prefix=es" group-title="FILMES & SERIES",UNIVERSAL TV FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/hipolitoat2110/51956038336/195653.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/juangu2506/64564489954/195653.ts
 #EXTINF:-1 tvg-name="WARNER TV FHD" tvg-logo="https://p7.hiclipart.com/preview/748/561/275/warner-tv-television-channel-warner-bros-world-abu-dhabi-television-show-serie-tv.jpg" group-title="FILMES & SERIES",WARNER TV FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/juangu2506/64564489954/195660.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195660.ts
 #EXTINF:-1 tvg-name="ANIMAL PLANET FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" group-title="DISCOVERY & DOCS",ANIMAL PLANET FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV102/9NMJvQWsYE/195401.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195401.ts
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-0.png" group-title="DISCOVERY & DOCS",DISCOVERY CHANNEL FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/195456.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195456.ts
 #EXTINF:-1 tvg-name="DISCOVERY HOME & HEALTH FHD" tvg-logo="https://www.facialenhance.co.uk/wp-content/uploads/2021/07/DISCOVERY_HOME_HEALTH-e1626096607241.png" group-title="DISCOVERY & DOCS",DISCOVERY HOME & HEALTH FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195459.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/juangu2506/64564489954/195459.ts
 #EXTINF:-1 tvg-name="DISCOVERY ID FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuBa6h-JhDb9F01M3sKwReSKKvqsL-I787NAaSD4QGEQ&s" group-title="DISCOVERY & DOCS",DISCOVERY ID FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/hipolitoat2110/51956038336/195461.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195461.ts
 #EXTINF:-1 tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyP6XAytI1jz46j_FoeAANUIryuOL_MECFz4DVQId3yQ&s" group-title="DISCOVERY & DOCS",DISCOVERY SCIENCE FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/juangu2506/64564489954/195466.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195466.ts
 #EXTINF:-1 tvg-name="DISCOVERY THEATER FHD" tvg-logo="https://cdn.mitvstatic.com/channels/ar_discovery-hd-theater_m.png" group-title="DISCOVERY & DOCS",DISCOVERY THEATER FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV102/9NMJvQWsYE/195469.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195469.ts
 #EXTINF:-1 tvg-name="DISCOVERY TURBO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="DISCOVERY & DOCS",DISCOVERY TURBO FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/195474.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/juangu2506/64564489954/195474.ts
 #EXTINF:-1 tvg-name="DISCOVERY WORLD FHD" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/0/0b/Hn_discovery-world-hd_m.png/revision/latest?cb=20200526235551&path-prefix=es" group-title="DISCOVERY & DOCS",DISCOVERY WORLD FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
 http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195476.ts
 #EXTINF:-1 tvg-name="HISTORY FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/3840px-History_Logo.svg.png" group-title="DISCOVERY & DOCS",HISTORY FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/hipolitoat2110/51956038336/195531.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195531.ts
 #EXTINF:-1 tvg-name="HISTORY 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="DISCOVERY & DOCS",HISTORY 2 FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/juangu2506/64564489954/195533.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195533.ts
 #EXTINF:-1 tvg-name="NAT GEO FHD" tvg-logo="https://images.ctfassets.net/hrltx12pl8hq/2Kx5jH6dL3PJ3GH2jt8LNc/6cedd8d668703327b943bd59e41d47eb/logo_ngtv.jpg?fit=fill&w=480&h=268" group-title="DISCOVERY & DOCS",NAT GEO FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV102/9NMJvQWsYE/195556.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/juangu2506/64564489954/195556.ts
 #EXTINF:-1 tvg-name="BIS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_kTPZQGXdV4Ox8MPY3YJ7er9PcWq_QNZQD-sKMl4iJw&s" group-title="VARIEDADES",BIS FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/195420.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195420.ts
 #EXTINF:-1 tvg-name="CANAL OFF FHD" tvg-logo="https://w7.pngwing.com/pngs/847/971/png-transparent-logo-canal-off-canal-television-text-trademark-thumbnail.png" group-title="VARIEDADES",CANAL OFF FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195565.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195565.ts
 #EXTINF:-1 tvg-name="E! FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCjJ5d9w6fyRBGlpvmCjzWirbZgQ9tBMJZw&s" group-title="VARIEDADES",E! FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/hipolitoat2110/51956038336/195483.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195483.ts
 #EXTINF:-1 tvg-name="FOOD NETWORK FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1280px-Food_Network_Logo.svg.png" group-title="VARIEDADES",FOOD NETWORK FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
 http://infinitavision.online:80/live/juangu2506/64564489954/195491.ts
 #EXTINF:-1 tvg-name="GNT FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/GNT_logo-roxo.png" group-title="VARIEDADES",GNT FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV102/9NMJvQWsYE/195501.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195501.ts
 #EXTINF:-1 tvg-name="HGTV FHD" tvg-logo="https://w1.pngwing.com/pngs/818/201/png-transparent-tv-logo-cable-television-hgtv-organization-blue-text-line-thumbnail.png" group-title="VARIEDADES",HGTV FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/195528.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195528.ts
 #EXTINF:-1 tvg-name="LIFETIME FHD" tvg-logo="https://www.vhv.rs/dpng/d/42-429609_lifetime-logo-png-white-transparent-png.png" group-title="VARIEDADES",LIFETIME FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195540.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195540.ts
 #EXTINF:-1 tvg-name="MAIS NA TELA HD" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kML1iGQz3XJYfSMroFxGHRtOEquP7AaG1LVVyf1FXnkpE=s900-c-k-c0x00ffffff-no-rj" group-title="VARIEDADES",MAIS NA TELA HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/hipolitoat2110/51956038336/195543.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/juangu2506/64564489954/195543.ts
 #EXTINF:-1 tvg-name="MTV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/MTV.png" group-title="VARIEDADES",MTV FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/juangu2506/64564489954/195549.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195549.ts
 #EXTINF:-1 tvg-name="MTV LIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/MTV.png" group-title="VARIEDADES",MTV LIVE HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV102/9NMJvQWsYE/195548.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195548.ts
 #EXTINF:-1 tvg-name="MULTISHOW FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Multishow.png" group-title="VARIEDADES",MULTISHOW FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/195552.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195552.ts
 #EXTINF:-1 tvg-name="TLC FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDP_RgojGcSwRTd5J5GGAJrmsFADKOT_69ug&s" group-title="VARIEDADES",TLC FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195471.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/juangu2506/64564489954/195471.ts
 #EXTINF:-1 tvg-name="VIVA FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUEZE6UQoBInnH_sdKAk9TDS9cBLWMHS80dE088S-KELq4kNCYtn3dhK6ibD6zQ-LF-_A&usqp=CAU" group-title="VARIEDADES",VIVA FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/hipolitoat2110/51956038336/195657.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195657.ts
 #EXTINF:-1 tvg-name="WOOHOO FHD" tvg-logo="https://w7.pngwing.com/pngs/17/71/png-transparent-woohoo-television-channel-claro-tv-tvcine-others-television-text-logo-thumbnail.png" group-title="VARIEDADES",WOOHOO FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/juangu2506/64564489954/195663.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195663.ts
 #EXTINF:-1 tvg-name="BAND NEWS FHD" tvg-logo="https://logowik.com/content/uploads/images/bandnews-tv-202494983.logowik.com.webp" group-title="NOTICIAS",BAND NEWS FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV102/9NMJvQWsYE/195411.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195411.ts
 #EXTINF:-1 tvg-name="CNN BRASIL FHD" tvg-logo="https://play-lh.googleusercontent.com/8ch6kAhf2Ydd34PPqtOGh-troE-Zee9LxH-xZVlZml7YwNGyA1Nq2xXER-84CZHmoNyw" group-title="NOTICIAS",CNN BRASIL FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/ThreeoTV128/dtM8GtyhWQ/195445.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/juangu2506/64564489954/195445.ts
 #EXTINF:-1 tvg-name="GLOBO NEWS FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0uHofhKwL5ii9tMBAPiAD6nXR0rUtkigPmrHbDXCU0yh2ZExtffK5MgfALx5ALW949bk&usqp=CAU" group-title="NOTICIAS",GLOBO NEWS FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
 http://infinitavision.online:80/live/Urbinavictor/7DuerR7yHy/195324.ts
 #EXTINF:-1 tvg-name="JOVEM PAN NEWS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Jovem_Pan_News.png" group-title="NOTICIAS",JOVEM PAN NEWS FHD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/hipolitoat2110/51956038336/195537.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/WH42188HCD005/Ctdc4ggRqr/195537.ts
 #EXTINF:-1 tvg-name="RECORD NEWS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/1280px-Record_News_logo_2022.svg.png" group-title="NOTICIAS",RECORD NEWS HD
 #EXTVLCOPT:http-reconnect=true
-#EXTVLCOPT:network-caching=300
-#EXTVLCOPT:live-caching=300
-http://infinitavision.online:80/live/juangu2506/64564489954/195380.ts
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:live-caching=3000
+http://infinitavision.online:80/live/Romi2502baltra/D8yw8sBhdb/195380.ts
